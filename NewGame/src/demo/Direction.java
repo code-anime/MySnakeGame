@@ -1,5 +1,5 @@
 package demo;
 
-public enum Direction {//定义一个枚举方向,有四个取值,分别是:向下,向上,向左,向右
-    top,bottom,left,right
+public enum Direction { //定义一个枚举方向，有四个取值分别是：向上、向下、向左、向右
+    top,bottom,left,right;
 }
